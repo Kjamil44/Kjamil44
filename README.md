@@ -10,8 +10,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kjamil44&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kjamil44&theme=tokyonight&hide_border=true)
-
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Kjamil44&theme=tokyonight&margin-w=10&no-bg=true&no-frame=true)
 
 ---
